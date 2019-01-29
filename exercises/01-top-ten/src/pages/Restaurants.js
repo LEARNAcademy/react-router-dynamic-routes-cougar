@@ -32,6 +32,7 @@ class Restaurants extends Component {
           <div>
             <h1>{restaurant.name}</h1>
             <p>{restaurant.location}</p>
+            <p>{restaurant.menuItems}</p>
           </div>
         }
       </div>
